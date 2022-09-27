@@ -1,0 +1,36 @@
+
+    body{
+      background-color:#3BACB6;
+      text-align: center;
+    }
+    .BEN{
+      border-style: outset;
+      border-color: #DBDFFD;
+      border-width: 10px;
+      border-radius: 180px;
+    }
+    p{
+      font-size: 20px;
+      color: white;
+    }
+    .Head{
+      font-size: 40px;
+      color: #F7F5F2;
+    }
+    .text{
+      font-size: 80px;
+    }
+
+
+
+    .P1{
+      height: 250px;
+      width: 250px;
+    }
+.pic{
+  background-color: #82DBD8;
+}
+.Video{
+  height: 500px;
+  width: 750px;
+}
